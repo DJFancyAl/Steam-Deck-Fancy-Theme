@@ -1,0 +1,60 @@
+:root {
+    --test-main-color: #000
+}
+
+.DefaultTheme {
+    --background-color: #21000041;
+    --foreground-color: #ffffff;
+    --key-action-button-glyph-color: #b8bcbf;
+    --key-focused-action-button-left-color: #0e141b;
+    --key-focused-action-button-right-color: #0e141b;
+    --key-color: #ffffff;
+    --key-background-color: #910000;
+    --key-shift-label-color: #ffffff;
+    --key-focused-shift-label-color: #000000;
+    --key-focused-color: #0e141b;
+    --key-focused-background-color: #ff0000;
+    --key-meta-color: #ffffff;
+    --key-meta-background-color: #5f0000;
+    --key-tab-color: #ffffff;
+    --key-tab-background-color: #5f0000;
+    --key-caps-color: #ffffff;
+    --key-caps-background-color: #5f0000;
+    --key-shift-color: #ffffff;
+    --key-shift-background-color: #5f0000;
+    --key-enter-color: #ffffff;
+    --key-enter-background-color: #5f0000;
+    --key-enter-action-button-glyph-color: #0e141b;
+    --key-backspace-color: #ffffff;
+    --key-backspace-background-color: #5f0000;
+    --key-spacebar-color: #ffffff;
+    --key-spacebar-background-color: #5f0000;
+    --key-spacer-background-color: #000000;
+    --key-extendedkey-background-color: #e50000;
+    --key-extendedkey-color: #ffffff;
+    --key-extendedkey-focused-background-color: #ffffff;
+    --key-extendedkey-focused-color: #0e141b;
+    --key-extendedkey-hover-background-color: #ffffff;
+    --key-extendedkey-hover-color: #0e141b;
+    --key-toggleon-background-color: #df0000;
+    --key-toggleon-color: #ffffff;
+    --key-toggleoneshot-color: #1a9fff;
+    --key-emoji-category-background-color: transparent;
+    --key-emoji-category-highlight-background-color: #3D4450;
+    --key-emoji-row-background-color: transparent;
+    --key-emoji-background-color: transparent;
+    --key-emoji-color: #ffffff;
+    --key-emoji-focused-color: #0e141b;
+    --key-emoji-focused-background-color: #8b929a;
+    --key-touched-background-color: #ffffff;
+    --key-touched-color: #000000;
+    --key-pointer-stroke-color: #000000;
+    --key-pointer-background-color: #1a9fff;
+    --key-deadkey-background-color: #000000;
+    --key-deadkeyinactive-color: #ffffff;
+    --key-deadkeyactive-color: #1a9fff;
+}
+
+.virtualkeyboard_KeyboardKey_2KhPX {
+    border-radius: 10%;
+}

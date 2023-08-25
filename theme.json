@@ -1,0 +1,10 @@
+{
+    "name": "Fancy Theme",
+    "author": "DJFancyAl",
+    "manifest_version": 3,
+    "target": "Keyboard",
+    "description": "Creates the classic red Fancy Themed Keyboard",
+    "inject": {
+        "shared.css": ["Steam Big Picture Mode"]
+    }
+}
