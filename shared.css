@@ -3,7 +3,7 @@
 }
 
 .DefaultTheme {
-    --background-color: #21000041;
+    --background-color: #210000;
     --foreground-color: #ffffff;
     --key-action-button-glyph-color: #b8bcbf;
     --key-focused-action-button-left-color: #0e141b;
@@ -56,5 +56,28 @@
 }
 
 .virtualkeyboard_KeyboardKey_2KhPX {
-    border-radius: 10%;
+    background-color: var(--key-background-color);
+    color: var(--key-color);
+    text-align: center;
+    user-select: none;
+    border: 1px solid var(--foreground-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 44px;
+    max-height: 44px;
+    position: relative;
+}
+
+.virtualkeyboard_Keyboard_45rH7 {
+    max-width: 100%;
+    flex-grow: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    justify-items: stretch;
+    align-items: stretch;
+    background: var(--background-color);
+    overflow: hidden;
 }
